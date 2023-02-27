@@ -27,4 +27,5 @@ The `CarReservationSystem` class is the main class of the program. It has a priv
 
 The `main` method of the `CarReservationSystem` class initializes the inventory with some sample cars, and displays a menu to the user. It uses a `Scanner` object to read user input, and a `switch` statement to execute the selected option.
 
+
 ![Car Reservation System UML Diagram](./CarReservationSystem.jpg)
